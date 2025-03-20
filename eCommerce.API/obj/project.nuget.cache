@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YhCHkzeD0Vw=",
+  "success": true,
+  "projectFilePath": "D:\\eCommerce.UserService\\eCommerce.API\\eCommerce.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gopik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\gopik\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
