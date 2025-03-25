@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.CompilerServices;
 using Microsoft.Extensions.DependencyInjection;
+using eCommerce.Core.RepositoryContracts;
+using eCommerce.Infrastructure.Repositories;
 
 namespace eCommerce.Infrastructure
 {
@@ -19,6 +21,8 @@ namespace eCommerce.Infrastructure
         {
             //Add services to the ioc container here
             //Infrastructure service often include data access, caching and other lower level components
+
+            services.AddSingleton<iUsersRepository,UsersRepository>();
             return services;
         }
     }
