@@ -1,39 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "D:\\eCommerce.UserService\\eCommerce.API\\eCommerce.API.csproj": {}
+    "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.API\\eCommerce.API.csproj": {}
   },
   "projects": {
-    "D:\\eCommerce.UserService\\eCommerce.API\\eCommerce.API.csproj": {
+    "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.API\\eCommerce.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\eCommerce.UserService\\eCommerce.API\\eCommerce.API.csproj",
+        "projectUniqueName": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.API\\eCommerce.API.csproj",
         "projectName": "eCommerce.API",
-        "projectPath": "D:\\eCommerce.UserService\\eCommerce.API\\eCommerce.API.csproj",
-        "packagesPath": "C:\\Users\\gopik\\.nuget\\packages\\",
-        "outputPath": "D:\\eCommerce.UserService\\eCommerce.API\\obj\\",
+        "projectPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.API\\eCommerce.API.csproj",
+        "packagesPath": "C:\\Users\\karanamg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gopik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\karanamg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\eCommerce.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {
-                "projectPath": "D:\\eCommerce.UserService\\eCommerce.Core\\eCommerce.Core.csproj"
+              "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj"
               },
-              "D:\\eCommerce.UserService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
-                "projectPath": "D:\\eCommerce.UserService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj"
+              "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj"
               }
             }
           }
@@ -77,29 +74,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\eCommerce.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {
+    "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\eCommerce.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
+        "projectUniqueName": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj",
         "projectName": "eCommerce.Core",
-        "projectPath": "D:\\eCommerce.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
-        "packagesPath": "C:\\Users\\gopik\\.nuget\\packages\\",
-        "outputPath": "D:\\eCommerce.UserService\\eCommerce.Core\\obj\\",
+        "projectPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj",
+        "packagesPath": "C:\\Users\\karanamg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gopik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\karanamg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -144,37 +138,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\eCommerce.UserService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
+    "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\eCommerce.UserService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
         "projectName": "eCommerce.Infrastructure",
-        "projectPath": "D:\\eCommerce.UserService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\gopik\\.nuget\\packages\\",
-        "outputPath": "D:\\eCommerce.UserService\\eCommerce.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\karanamg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gopik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\karanamg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\eCommerce.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {
-                "projectPath": "D:\\eCommerce.UserService\\eCommerce.Core\\eCommerce.Core.csproj"
+              "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj"
               }
             }
           }
@@ -215,7 +206,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
