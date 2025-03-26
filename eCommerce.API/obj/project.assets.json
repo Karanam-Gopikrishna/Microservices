@@ -189,11 +189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.API\\eCommerce.API.csproj",
+      "projectUniqueName": "c:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.API\\eCommerce.API.csproj",
       "projectName": "eCommerce.API",
-      "projectPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.API\\eCommerce.API.csproj",
+      "projectPath": "c:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.API\\eCommerce.API.csproj",
       "packagesPath": "C:\\Users\\karanamg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.API\\obj\\",
+      "outputPath": "c:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karanamg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -208,8 +208,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj": {
-              "projectPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj"
+            "c:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj": {
+              "projectPath": "c:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj"
             },
             "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj"

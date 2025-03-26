@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.CompilerServices;
 using Microsoft.Extensions.DependencyInjection;
+using eCommerce.Core.ServiceContracts;
 
 namespace eCommerce.Core
 {
@@ -19,6 +20,7 @@ namespace eCommerce.Core
         {
             //Add services to the ioc container here
             //Core service often include data access, caching and other lower level components
+            services.AddTransient<iUserService,UserService>();
             return services;
         }
     }

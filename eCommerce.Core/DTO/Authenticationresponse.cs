@@ -10,7 +10,7 @@ namespace eCommerce.Core.DTO
     /// <summary>
     /// Defines the Authenticationresponse class which acts as a model for the authentication response DTO
     /// </summary>
-    public record Authenticationresponse(
+    public record AuthenticationResponse(
         Guid UserId,
         string Email,
         string? UserName,

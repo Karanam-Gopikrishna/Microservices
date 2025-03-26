@@ -1,0 +1,13 @@
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.deps.json
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.dll
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.pdb
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.AssemblyReference.cache
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfoInputs.cache
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfo.cs
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.CoreCompileInputs.cache
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.sourcelink.json
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.dll
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\obj\Debug\net8.0\refint\eCommerce.Core.dll
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.pdb
+c:\Users\karanamg\source\repos\Microservices\eCommerce.Core\obj\Debug\net8.0\ref\eCommerce.Core.dll

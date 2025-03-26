@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj": {}
+    "c:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj": {
+    "c:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj",
+        "projectUniqueName": "c:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj",
         "projectName": "eCommerce.Core",
-        "projectPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj",
+        "projectPath": "c:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\eCommerce.Core.csproj",
         "packagesPath": "C:\\Users\\karanamg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\obj\\",
+        "outputPath": "c:\\Users\\karanamg\\source\\repos\\Microservices\\eCommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karanamg\\AppData\\Roaming\\NuGet\\NuGet.Config"

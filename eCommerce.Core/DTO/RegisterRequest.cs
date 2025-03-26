@@ -14,7 +14,7 @@ namespace eCommerce.Core.DTO
         string? UserName,
         string? Email, 
         string? Password, 
-        GenderOptions gender
+        GenderOptions Gender
         );
 
 }
