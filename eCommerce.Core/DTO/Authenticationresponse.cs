@@ -12,8 +12,8 @@ namespace eCommerce.Core.DTO
     /// </summary>
     public record AuthenticationResponse(
         Guid UserId,
-        string Email,
         string? UserName,
+        string? Email,
         string? Gender, 
         string? Token, 
         bool Success, 
