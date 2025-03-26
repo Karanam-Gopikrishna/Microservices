@@ -12,7 +12,7 @@ namespace eCommerce.Infrastructure.Repositories
 {
     internal class UsersRepository : iUsersRepository
     {
-        public async Task<ApplicationUser> AddUser(ApplicationUser user)
+        public async Task<ApplicationUser?> AddUser(ApplicationUser user)
         {
             //Generate a new user id
             user.UserId = Guid.NewGuid();

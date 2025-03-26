@@ -22,7 +22,7 @@ namespace eCommerce.Infrastructure
             //Add services to the ioc container here
             //Infrastructure service often include data access, caching and other lower level components
 
-            services.AddSingleton<iUsersRepository,UsersRepository>();
+            services.AddTransient<iUsersRepository,UsersRepository>(); //we are using addtransient because the user service is stateless
             return services;
         }
     }
